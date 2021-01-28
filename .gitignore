@@ -1,0 +1,11 @@
+# general edit files
+*~
+
+# directories
+__pycache__/
+.venv/
+data/
+db/
+
+# IDE related
+.idea/
